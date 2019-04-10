@@ -1,5 +1,5 @@
 # GenderClassification
-a project of gender classification and a demo of real-time gender classification.
+We provide a Pytorch implementation of gender classification, you can achieve gender classification based on photo or video, and also you can use you conputer camera to achieve it.
 # Requirement
 * Ubuntu or Windows
 * Python3
@@ -13,7 +13,7 @@ To get the gender classification based on video, run ```video.py --input_video_p
 * In ```realtime.py``` and ```video.py```, we use the mtcnn to detect the face, it can get a great result in dynamic video. And in  
 ```photo.py```, we use the face detector in Opencv. You can replace it accord to the actual effect.
 # Dataset
-[You can Download CelebA dataset from here](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
+[You can Download CelebA dataset from here.](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
 # Related Projects
 [mtcnn](https://github.com/TropComplique/mtcnn-pytorch).
 # Results
