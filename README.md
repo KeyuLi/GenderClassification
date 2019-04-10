@@ -3,7 +3,7 @@ a project of gender classification and a demo of real-time gender classification
 # Requirement
 * Ubuntu or Windows
 * Python3
-* GPU
+* NVIDIA GPU + CUDA CuDNN
 # Getting Started
 To use the real-time gender classification, run ```realtime.py```
 To get the gender classification based on photo, run ```photo.py --input_photo_path --output_photo_path```
