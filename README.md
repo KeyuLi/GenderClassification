@@ -1,5 +1,5 @@
 # GenderClassification
-We provide a Pytorch implementation of gender classification, you can achieve gender classification based on photo or video, and also you can use you conputer camera to achieve it.
+We provide a Pytorch implementation of gender classification, you can achieve gender classification based on photo or video, and also you can use your computer camera to achieve it.
 # Requirement
 * Ubuntu or Windows
 * Python3
