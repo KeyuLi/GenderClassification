@@ -25,7 +25,6 @@ To get the gender classification based on video, run ```video.py --input_video_p
 * The result of gender classification based on video:
 ![image4](https://github.com/KeyuLi/GenderClassification/raw/master/result/out.gif)
 
-* The result of gender classification based on computer camera in real-time:
-![image5](https://github.com/KeyuLi/GenderClassification/raw/master/result/test.gif)
+
 
 
